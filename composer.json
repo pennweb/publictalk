@@ -1,0 +1,12 @@
+{
+    "name": "upenn/publictalk",
+    "description": "Static repo for publictalk archive",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jonathan Haas",
+            "email": "haasj@upenn.edu"
+        }
+    ],
+    "require": {}
+}
